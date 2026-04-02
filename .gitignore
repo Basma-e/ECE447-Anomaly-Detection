@@ -10,3 +10,8 @@ __pycache__/
 
 # OS files
 .DS_Store
+
+# Large binary splits
+*.npy
+*.pkl
+*.csv
