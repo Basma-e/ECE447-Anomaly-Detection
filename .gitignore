@@ -1,0 +1,12 @@
+# Data
+data/
+
+# Virtual environment
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# OS files
+.DS_Store
