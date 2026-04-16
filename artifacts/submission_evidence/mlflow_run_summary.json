@@ -1,0 +1,9 @@
+{
+  "tracking_uri": "sqlite:///C:/Users/basma/OneDrive/Documents/ECE 447/ECE447-Anomaly-Detection/artifacts/mlflow.db",
+  "experiment": "ece447_anomaly_cc_fraud",
+  "run_ids": {
+    "val": "024343b4322e4401bb0dc5c0f0b87197",
+    "test": "3092da5effaf4e429ac148269d11e544"
+  },
+  "threshold": -0.061287544601304485
+}
