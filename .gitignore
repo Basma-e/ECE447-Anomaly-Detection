@@ -15,3 +15,8 @@ __pycache__/
 *.npy
 *.pkl
 *.csv
+
+# MLflow local DB / runs (regenerate with memberC notebook)
+artifacts/mlflow.db
+artifacts/mlruns/
+mlruns/
